@@ -1,0 +1,7 @@
+body{
+    background-image: url(leaf2.jpg);
+    height:800px;
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+}
